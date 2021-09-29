@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxxxL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MxxxL's github activity graph](https://activity-graph.herokuapp.com/graph?username=MxxxL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MxxxL's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MxxxL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
